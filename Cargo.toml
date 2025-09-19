@@ -10,7 +10,7 @@ overflow-checks = true     # Disable integer overflow checks.
 
 [workspace.dependencies]
 cosmwasm-schema  = "2.2.2"
-cosmwasm-std     = { version = "2.2.2", features = ["stargate", "cosmwasm_2_0"] }
+cosmwasm-std     = { version = "2.2.2", features = ["stargate", "cosmwasm_2_1"] }
 cw2              = "2.0.0"
 cw-storage-plus  = "2.0.0"
 cw-utils         = "2.0.0"
